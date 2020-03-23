@@ -11,8 +11,6 @@ dependencies:
   - seaborn
   - yaml
   - pyspark
-  - math
-  - tesorboard
   - pip: 
     - h5py
     - smopy
